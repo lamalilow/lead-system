@@ -101,3 +101,4 @@ curl -X http://127.0.0.1:8080/api/leads -H "Content-Type: application/json" -H "
 - Переменные окружения БД задаются в `.env` или в `docker-compose.yml` (сервис `db`).
 - Приложение тестировалось на Windows 10 с использованием xampp и Postman.
 ![img.png](img.png)
+![img_1.png](img_1.png)
